@@ -10,13 +10,13 @@ export default function Footer() {
 					</div>
 					<div className="col-md-6">
 						<h5>Follow Me on Github</h5>
-						<a
+						{/* <a
 							href="https://github.com/fiza-arbani"
 							className="text-white"
 							target="_blank"
 						>
 							Follow me on GitHub
-						</a>
+						</a> */}
 					</div>
 				</div>
 			</div>
