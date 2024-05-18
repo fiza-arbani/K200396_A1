@@ -19,6 +19,9 @@ export default function NavbarComp() {
 					<Nav.Link>
 						<Link href="education">Education</Link>
 					</Nav.Link>
+					<Nav.Link>
+						<Link href="certifications">Certifications</Link>
+					</Nav.Link>
 				</Nav>
 			</Container>
 		</Navbar>
